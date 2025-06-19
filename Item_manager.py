@@ -67,7 +67,7 @@ while True:
     elif choice == "6":
         import time
         print("Exiting program. closing windows...")
-        time.sleep(30/5)
+        time.sleep(15)
         print("See you next time!")
         break
     else:
